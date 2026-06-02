@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3e4981a8cc5af85469a64fea862002a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157744
+  packageName: Human Basic Motions
+  packageVersion: 2.4.1
+  assetPath: Assets/Kevin Iglesias/Human Animations/Scripts/SpineProxy.cs
+  uploadId: 824618
